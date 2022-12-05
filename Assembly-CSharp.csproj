@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\Generation\FiberCollision.cs" />
     <Compile Include="Assets\Scripts\Reflection\RayReflection.cs" />
     <Compile Include="Assets\Scripts\Reflection\GenerateMeshLine.cs" />
+    <Compile Include="Assets\Scripts\Results\Csv_Export.cs" />
     <Compile Include="Assets\Scripts\Generation\GenerateCubiod.cs" />
   </ItemGroup>
   <ItemGroup>
